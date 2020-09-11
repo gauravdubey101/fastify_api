@@ -6,3 +6,11 @@
 
 
 <span id="a9a9" class="cq od mq gy oe b bw of og s oh" data-selectable-paragraph="">$ npm i fastify --save</span>
+
+
+
+<h1>Start App :  </h2>
+
+<h3> node index.js <h3>
+
+
